@@ -10,7 +10,7 @@
 body {
 
     background-color: #f2f2f2;
-    width: 70%;
+    width: 80%;
     margin: auto;
 }
 
@@ -42,6 +42,7 @@ body {
 /* Education */
 .education {
     background-color: #ecf0f1;
+    font-size:50px;
     padding: 12px;
     margin-top: 10px;
     border-radius: 6px;
@@ -67,7 +68,7 @@ body {
 
 /* Projects */
 .project {
-    background-color: #ecf0f1;
+    background-color: black;
     padding: 25px;
     border-radius: 6px;
     margin-top: 10px;
@@ -124,3 +125,4 @@ body {
         font-size: 24px;
     }
 }
+
