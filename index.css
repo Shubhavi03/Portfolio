@@ -115,10 +115,20 @@ body {
 }
 
 /* Responsive */
-@media (max-width: 600px) {
-    .box {
-        padding: 15px;
-        margin: 10px;
+/* Tablets (medium screens) */
+@media (max-width: 900px) {
+    body {
+        width: 85%;
     }
 }
+
+/* Phones (small screens) */
+@media (max-width: 600px) {
+    body {
+        width: 95%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
 
